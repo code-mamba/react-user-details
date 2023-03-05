@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Prashanth B",
+      "address": "India",
+      "email": "prashanth97@gmail.com",
+      "contact": "9940524174",
+      "id": 2
+    },
+    {
+      "name": "Santhosh",
+      "address": "India",
+      "email": "santhosh2000@gmail.com",
+      "contact": "9840058940",
+      "id": 3
+    },
+    {
+      "name": "Dhanush",
+      "address": "India",
+      "email": "baskaran2000@gmail.com",
+      "contact": "9840058940",
+      "id": 1
+    },
+    {
+      "name": "Johncena",
+      "email": "johncene@gmail.com",
+      "contact": "6789543526",
+      "address": "India-pak",
+      "id": 4
+    }
+  ]
+}
